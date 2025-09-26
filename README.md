@@ -1,7 +1,7 @@
-# DAT-web
+# Body shape
 
 ## Demo web
-https://belokonenko.github.io/gulp_new_2025.08.09/
+https://belokonenko.github.io/Body_Shape/
 
 ## Demo
 
