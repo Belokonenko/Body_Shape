@@ -1,0 +1,1 @@
+{"version":3,"sources":["../components/button/_button.scss","../components/product-card/_product-card.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;;;ACHF;EAAgB;EAAwB","file":"main.min.css","sourcesContent":[".btn { \n  padding: 110px; \n  background: blue; \n  color: white; \n}",".product-card { border: 1px solid #ccc; padding: 1rem; }"]}
