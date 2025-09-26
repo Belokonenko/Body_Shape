@@ -5,8 +5,7 @@ https://belokonenko.github.io/gulp_new_2025.08.09/
 
 ## Demo
 
-![Desktop Demo](./website-demo-image/desktop.jpg 'Desktop Demo')
-![Mobile Demo](./website-demo-image/mobile.jpg 'Mobile Demo')
+![Desktop Demo](./website-demo-image/Body shape.jpg 'Desktop Demo')
 
 ---
 
